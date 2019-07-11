@@ -3,6 +3,7 @@ def using_include(array, element)
 end
 
 def using_include(array, element)
+  using_include = 
   using_include.include?("Tardis")
 end
 
